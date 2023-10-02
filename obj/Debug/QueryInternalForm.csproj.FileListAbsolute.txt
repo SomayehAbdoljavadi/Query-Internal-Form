@@ -1,0 +1,9 @@
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\bin\Debug\QueryInternalForm.exe
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\bin\Debug\QueryInternalForm.pdb
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\QueryInternalForm.frmMain.resources
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\QueryInternalForm.Properties.Resources.resources
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\QueryInternalForm.exe
+C:\Users\Abdoljavadi\Desktop\DBMS_Somaye Abdoljavadi\QueryInternalForm\obj\Debug\QueryInternalForm.pdb
